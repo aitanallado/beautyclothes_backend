@@ -1,0 +1,4 @@
+package entitieslayer
+
+class ProductCategory {
+}

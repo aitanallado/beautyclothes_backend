@@ -1,0 +1,5 @@
+package entitieslayer
+
+class Product
+{
+}
